@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ranbri
+- 💪🏻Fullstack Developer
 - 👀 I’m interested in a FullStack Position!
+- 🙏🏻 Welcome to my GitHub
 
 
 <!---
