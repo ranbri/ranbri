@@ -1,6 +1,6 @@
 ![Profile Cover Image](https://media-exp1.licdn.com/dms/image/C4D16AQGj0_hF6h33TQ/profile-displaybackgroundimage-shrink_350_1400/0/1638112731465?e=1651104000&v=beta&t=XMb4LzA8ZeW1-YajthDYy4j_RzVziSHjN0o4SI24Kso)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20170817100847" width="60" height="40"><img src="https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" width="60" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" height="40"><img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20170817100847" width="60" height="40"><img src="https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" width="60" height="30">
 
 
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
