@@ -1,6 +1,6 @@
 ![Profile Cover Image](https://media-exp1.licdn.com/dms/image/C4D16AQGj0_hF6h33TQ/profile-displaybackgroundimage-shrink_350_1400/0/1638112731465?e=1651104000&v=beta&t=XMb4LzA8ZeW1-YajthDYy4j_RzVziSHjN0o4SI24Kso)
 
-![Angular]("https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg")
+![Angular](https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg)
 
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
