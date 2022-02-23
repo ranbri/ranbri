@@ -1,6 +1,6 @@
 ![Profile Cover Image](https://media-exp1.licdn.com/dms/image/C4D16AQGj0_hF6h33TQ/profile-displaybackgroundimage-shrink_350_1400/0/1638112731465?e=1651104000&v=beta&t=XMb4LzA8ZeW1-YajthDYy4j_RzVziSHjN0o4SI24Kso)
 
-![Angular](<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Angular</title><path d="M9.931 12.645h4.138l-2.07-4.908m0-7.737L.68 3.982l1.726 14.771L12 24l9.596-5.242L23.32 3.984 11.999.001zm7.064 18.31h-2.638l-1.422-3.503H8.996l-1.422 3.504h-2.64L12 2.65z"/></svg>)
+![Angular](http://www.w3.org/2000/svg")
 
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
