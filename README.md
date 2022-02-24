@@ -6,10 +6,12 @@
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
 
-:e-mail:<bold>rawown@gmail.com</bold> &nbsp;
+:e-mail: &nbsp;
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
 <a href="https://www.linkedin.com/in/ran-bar-ilan"> LinkedIn</a>&nbsp;&nbsp;<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="20" height="20" alt="Facebook-logo">
-<a href="https://www.facebook.com/ranbarilan"> Facebook</a>
+<a href="https://www.facebook.com/ranbarilan"> Facebook</a>&nbsp;&nbsp;<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="20" height="20" alt="Gmail-logo">
+<bold>rawown@gmail.com</bold>
+
 #### :mag_right: Here u can find: :mag:
 1. Angular & React projects. 
 2. a backend server using Node.js.
