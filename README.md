@@ -7,7 +7,7 @@
 ### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
 
 :e-mail:<bold>rawown@gmail.com</bold>
-
+<i class="fas fa-chevron-right"></i>
 
 
 #### :mag: Here u can find: :mag:
