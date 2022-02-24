@@ -8,7 +8,7 @@
 
 :e-mail:<bold>rawown@gmail.com</bold>
 
-<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="10" height="10" alt="Linkedin-logo">
+<img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
 
 #### :mag_right: Here u can find: :mag:
 1. Angular & React projects. 
