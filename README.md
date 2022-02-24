@@ -2,21 +2,21 @@
 
 <p align="center"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="40" height="40" alt="Angular-logo">
-·
+
 <img src="https://upload.wikimedia.org/wikipedia/he/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20170817100847" alt="React-Logo" width="60" height="40">
-·
+
 <img src="https://miro.medium.com/max/512/1*314zAbKFKYTuxHNwRO07SA.png" alt="NodeJs-Logo" width="80" height="40">
-·
+
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML-Logo">
-·
+
 <img src="https://static.cdnlogo.com/logos/c/18/css.svg" width="40" height="40" alt="CSS-Logo">
-·
+
 <img src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" alt="Scss-Logo" width="40" height="40">
-·
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="JS-Logo" width="40" height="40">
-·   
+
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" alt="TS-Logo"  height="40">
-·
+
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB-Logo" width="40" height="40">
 </p>
 
