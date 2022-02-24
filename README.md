@@ -7,12 +7,9 @@
 ### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
 
 <p align="center">
-    The bank that don't steal.
-    <br />
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
 <a href="https://www.linkedin.com/in/ran-bar-ilan"> LinkedIn</a>
-    <br />
-    <br />
+     ·
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" width="20" height="20" alt="Facebook-logo"><a href="https://www.facebook.com/ranbarilan"> Facebook</a>
     ·
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" width="20" height="20" alt="Gmail-logo">
