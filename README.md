@@ -4,12 +4,12 @@
 
 
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
--  
--  
-- 👀 I’m interested in a FullStack Position!
-
-
+### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
+#### Take a look at my projects! 
+#### Here u can see Angular & React projects. 
+#### a backend server using Node.js.
+#### Some vanilla Javascript and jQuery projects.
+#### Databases with MongoDB or SQL.
+#### Bootstrap design with SCSS or CSS.
 
 
