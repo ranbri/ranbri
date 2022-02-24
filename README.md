@@ -7,9 +7,9 @@
 ### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
 
 :e-mail:<bold>rawown@gmail.com</bold>
-
+<a href="https://www.linkedin.com/in/ran-bar-ilan/">
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
-
+</a>
 #### :mag_right: Here u can find: :mag:
 1. Angular & React projects. 
 2. a backend server using Node.js.
