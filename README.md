@@ -6,6 +6,10 @@
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
 
+:e-mail:<bold>rawown@gmail.com</bold>
+
+
+
 #### :mag: Here u can find: :mag:
 1. Angular & React projects. 
 2. a backend server using Node.js.
