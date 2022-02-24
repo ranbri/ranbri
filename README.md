@@ -4,8 +4,7 @@
 
 
 # Welcome to my GitHub Page<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨
-
+<h3 align="center">My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨</h3>
 <p align="center">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
 <a href="https://www.linkedin.com/in/ran-bar-ilan"> LinkedIn</a>
