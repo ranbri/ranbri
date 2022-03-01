@@ -34,7 +34,7 @@
 2. a backend server using Node.js.
 3. Some vanilla Javascript and jQuery projects.
 4. Databases with MongoDB or SQL.
-5. Bootstrap design with SCSS or CSS.
+5. SCSS or CSS design with Bootstrap.
 
 
 ##### :eyes: Take a look at my projects! :eyes:
