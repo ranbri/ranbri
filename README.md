@@ -15,6 +15,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=Welcom+To+My+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70000&size=12&duration=10000&lines=Please+take+off+your+shoes+before+entering...)](https://git.io/typing-svg)
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Ran Bar Ilan and i'm a ✨ Fullstack Developer✨</h3>
 <p align="center">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="20" height="20" alt="Linkedin-logo">
